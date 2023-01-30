@@ -58,9 +58,9 @@ const CONFIG = {
 		},
 		{
 			id: '2',
-			name: 'Mail',
-			icon: 'mail',
-			link: 'https://mail.google.com/mail/u/0/#inbox',
+			name: 'Reddit',
+			icon: 'rss',
+			link: 'https://www.reddit.com/user/itsneebs/m/favorites/',
 		},
 		{
 			id: '3',
@@ -70,21 +70,21 @@ const CONFIG = {
 		},
 		{
 			id: '4',
-			name: 'Calendar',
-			icon: 'calendar',
-			link: 'https://calendar.google.com/calendar/r',
+			name: 'Studies',
+			icon: 'graduation-cap',
+			link: 'https://minestudier.uio.no/student',
 		},
 		{
 			id: '5',
-			name: 'Reddit',
-			icon: 'glasses',
-			link: 'https://www.reddit.com/user/itsneebs/m/favorites/',
+			name: 'Twitter',
+			icon: 'twitter',
+			link: 'https://twitter.com/home',
 		},
 		{
 			id: '6',
-			name: 'Todoist',
-			icon: 'trello',
-			link: 'https://todoist.com',
+			name: 'Drive',
+			icon: 'save',
+			link: 'https://drive.google.com/drive/my-drive',
 		},
 	],
 
@@ -134,46 +134,46 @@ const CONFIG = {
 	// First Links Container
 	firstlistsContainer: [
 		{
-			icon: 'music',
+			icon: 'coffee',
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Gmail',
+					link: 'https://mail.google.com/mail/u/0/',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'NRK',
+					link: 'https://www.nrk.no/',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'TEK',
+					link: 'https://www.tek.no/',
 				},
 				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Twitter',
+					link: 'https://twitter.com/home',
 				},
 			],
 		},
 		{
-			icon: 'coffee',
+			icon: 'shopping-cart',
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'FINN',
+					link: 'https://www.finn.no/',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'Aliexpress',
+					link: 'https://best.aliexpress.com/?lan=en',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'Etsy',
+					link: 'https://www.etsy.com/',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'Zalando',
+					link: 'https://www.zalando.no/herre-home/',
 				},
 			],
 		},
