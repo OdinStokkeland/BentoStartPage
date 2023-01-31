@@ -146,12 +146,12 @@ const CONFIG = {
 					link: 'https://www.nrk.no/',
 				},
 				{
-					name: 'TEK',
+					name: 'TEKno',
 					link: 'https://www.tek.no/',
 				},
 				{
-					name: 'Twitter',
-					link: 'https://twitter.com/home',
+					name: 'UXNorge',
+					link: 'https://uxnorge.no/',
 				},
 			],
 		},
