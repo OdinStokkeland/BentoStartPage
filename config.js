@@ -160,20 +160,23 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
+
+					name: 'Shopping list',
+					link: 'https://www.notion.so/Shopping-list-b0326d53dcea46268abe23496c37cb3b',
+				},
+				{
+
 					name: 'FINN',
 					link: 'https://www.finn.no/',
 				},
 				{
-					name: 'Aliexpress',
-					link: 'https://best.aliexpress.com/?lan=en',
-				},
-				{
-					name: 'Etsy',
-					link: 'https://www.etsy.com/',
-				},
-				{
+
 					name: 'Zalando',
 					link: 'https://www.zalando.no/herre-home/',
+				},
+				{
+					name: 'Aliexpress',
+					link: 'https://best.aliexpress.com/?lan=en',
 				},
 			],
 		},
